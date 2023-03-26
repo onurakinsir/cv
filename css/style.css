@@ -216,6 +216,17 @@ ul {
 /* MEDIA */
 @media (max-width: 991px) {
 
+
+  #title-con {
+    padding-top: 25%;
+  }
+
+  .oa-pp {
+    width: 86%;
+    border: 0.2px solid;
+    /* padding-top: 15%; */
+  }
+
   #hello {
     padding-top: 9%;
     text-align: center;
@@ -223,10 +234,28 @@ ul {
 
   .second-div-title {
     text-align: center;
+    padding-left: 6;
+    padding-right: 6;
   }
 
   .skill-box {
     padding: 6%;
+    padding-bottom: 75;
+  }
+
+  .edu1 {
+    padding-bottom: 66;
+  }
+
+  .edu2 {
+    padding-bottom: 20;
+  }
+
+
+
+
+  .fa-dot-circle {
+    visibility: hidden;
   }
 
   .fas-skill {
@@ -237,10 +266,12 @@ ul {
     text-align: center;
   }
 
+
   h2 {
     font-family: "Montserrat";
-    line-height: 0.70;
-}
+    line-height: 0.80;
+    font-size: 2.7rem;
+  }
 
 /* MEDIA ENDS */
 
