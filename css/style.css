@@ -251,9 +251,6 @@ ul {
     padding-bottom: 20;
   }
 
-
-
-
   .fa-dot-circle {
     visibility: hidden;
   }
@@ -271,6 +268,16 @@ ul {
     font-family: "Montserrat";
     line-height: 0.80;
     font-size: 2.7rem;
+  }
+
+  hr {
+  /* border: dotted #EAF6F6 6px; */
+  /* border: dotted #EAF6F6 6px; */
+  border: dotted #30343a 7px;
+  border-bottom: none;
+  width: 14%;
+  margin: 30px auto;
+  margin-bottom: 60px;
   }
 
 /* MEDIA ENDS */
